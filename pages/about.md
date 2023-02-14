@@ -18,9 +18,9 @@ The Oregon Theater Project provides a historical sketch of movie theaters in Ore
 
 The Oregon Theater Project has several objectives:
 
-    To build an online repository of original research related to the history of Oregon movie theaters and moviegoing around the state and over time.
-    To present exhibition case studies of specific Oregon theaters and cinema venues using primary sources such as photographs, advertisements, newspaper clippings, reviews, and maps
-    To deepen our understanding of moviegoing in Oregon and how the region fits into a broader context of moviegoing across time and geographic space.
+- To build an online repository of original research related to the history of Oregon movie theaters and moviegoing around the state and over time.
+- To present exhibition case studies of specific Oregon theaters and cinema venues using primary sources such as photographs, advertisements, newspaper clippings, reviews, and maps
+- To deepen our understanding of moviegoing in Oregon and how the region fits into a broader context of moviegoing across time and geographic space.
 
 ## Our Methods
 
@@ -32,10 +32,10 @@ The theaters profiled here offer a glimpse into the history of Oregon towns as w
 
 While there has been a recent increase in scholarship about moviegoing in small towns and rural areas, very little research exists about Oregon. However, there is abundant evidence of a robust film culture here from the earliest days of cinema in the 19th century, in Portland certainly, but in towns large and small from Astoria to Klamath Falls. These histories can be traced and recovered through newspapers, city and county directories, local historical society documents, and motion picture trade publications, many of which have been recently digitized to allow for this kind of historical research. Some essential--and free--online primary sources include the following:
 
-    [Historic Oregon Newspapers](http://oregonnews.uoregon.edu/)
-    [Media History Digital Library](http://lantern.mediahist.org/)
-    [Sanborn Fire Insurance Maps (Oregon)](https://www.loc.gov/rr/geogmap/sanborn/states.php?stateID=44)
-    [Oregon Historic Sites Database](https://heritagedata.prd.state.or.us/historic/)
+- [Historic Oregon Newspapers](http://oregonnews.uoregon.edu/)
+- [Media History Digital Library](http://lantern.mediahist.org/)
+- [Sanborn Fire Insurance Maps - Oregon](https://www.loc.gov/rr/geogmap/sanborn/states.php?stateID=44)
+- [Oregon Historic Sites Database](https://heritagedata.prd.state.or.us/historic/)
 
 ## Access Our Data
 
